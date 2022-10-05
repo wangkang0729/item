@@ -1,0 +1,17 @@
+D:\ios\source\repos\item\item\bin\Debug\net6.0-windows\item.exe
+D:\ios\source\repos\item\item\bin\Debug\net6.0-windows\item.deps.json
+D:\ios\source\repos\item\item\bin\Debug\net6.0-windows\item.runtimeconfig.json
+D:\ios\source\repos\item\item\bin\Debug\net6.0-windows\item.dll
+D:\ios\source\repos\item\item\bin\Debug\net6.0-windows\item.pdb
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.csproj.AssemblyReference.cache
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.items.resources
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.csproj.GenerateResource.cache
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.GeneratedMSBuildEditorConfig.editorconfig
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.AssemblyInfoInputs.cache
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.AssemblyInfo.cs
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.csproj.CoreCompileInputs.cache
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.dll
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\refint\item.dll
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.pdb
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\item.genruntimeconfig.cache
+D:\ios\source\repos\item\item\obj\Debug\net6.0-windows\ref\item.dll
